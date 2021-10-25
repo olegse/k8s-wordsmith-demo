@@ -63,3 +63,6 @@ Then browse to http://localhost:8080 to see the site. Each time you refresh the 
 # Registry 
 
 Using an [osergiyuk](https://hub.docker.com/repository/docker/osergiyuk) to push the images.
+
+db osergiyuk/wordsmith-db
+
